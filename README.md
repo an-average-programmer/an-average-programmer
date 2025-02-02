@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ștefan
-- 👀 I’m interested in web development, Android and iOS app development, Windows/macOS/Linux desktop app development, cross-platform applications and embedded systems (and anything related to programming)
-- 🌱 I’m currently learning Node.js, BASH, Kotlin, SQL and C/C++
+- 👀 I’m interested in web development, Android and iOS app development, Windows/macOS/Linux desktop app development, cross-platform applications,operating systems and embedded systems (and anything related to programming)
+- 🌱 I’m currently learning C/C++,BASH, Node.js, HTML/CSS
 - 💞️ I’m looking to collaborate on projects that belong to the specified categories.
 - 📫 How to reach me: public posts and repositories
 - 😄 Pronouns: he/him
