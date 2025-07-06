@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development, Android and iOS app development, Windows/macOS/Linux desktop app development, cross-platform applications, operating systems and embedded systems (and anything related to programming)
 - 🌱 I’m currently learning C/C++,BASH, Node.js, HTML/CSS
 - 💞️ I’m looking to collaborate on projects that belong to the specified categories.
-- 📫 How to reach me: public posts and repositories, Discord
+- 📫 How to reach me: public posts and repositories, Snapchat, Discord, Stack Overflow
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
 
